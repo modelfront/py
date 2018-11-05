@@ -1,2 +1,7 @@
 # ModelFront client library for Python
-PyPI package
+
+To install:
+```
+pip install modelfront
+```
+
