@@ -1,2 +1,2 @@
-# py
-Python client library
+# ModelFront client library for Python
+PyPI package
