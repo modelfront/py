@@ -2,6 +2,6 @@
 
 To install:
 ```
-pip install modelfront
+pip3 install modelfront
 ```
 
